@@ -1,11 +1,18 @@
 import React from 'react';
+import styled from 'styled-components';
 
 const Main = () => {
   return (
-    <div>
+    <MainWrapper>
       <div>Main</div>
-    </div>
+    </MainWrapper>
   );
 };
 
 export default Main;
+
+const MainWrapper = styled.div`
+  width: 100%;
+  min-height: 800px;
+  background-color: tan;
+`;
