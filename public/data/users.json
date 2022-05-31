@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jang hyungwon",
+      "hobby": "Soccer"
+    },
+    {
+      "id": 2,
+      "name": "Kim sojung",
+      "hobby": "Act"
+    },
+    {
+      "id": 3,
+      "name": "Hwang Eun Bi",
+      "hobby": "Dance"
+    },
+    {
+      "id": 4,
+      "name": "Kim Yewon",
+      "hobby": "Sing"
+    }
+  ]
+}
